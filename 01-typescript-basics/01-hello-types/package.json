@@ -1,0 +1,12 @@
+{
+  "name": "01-hello-types",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2",
+    "ts-node": "^10.9.2"
+  }
+}
